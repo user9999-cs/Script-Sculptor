@@ -14,11 +14,11 @@ The visual magic comes from DALL-E, a model that generates unique images from te
 
 To get started with Brainstorm Blockbuster, you simply input a one-sentence movie concept. The system begins processing your input, first replying with an enthusiastic message to let you know it's hard at work on your idea.
 
-![DEMO GIF](https://github.com/user9999-cs/Brainstorm-Blockbuster-Demo-GIF-/blob/main/BB_-_Demo_2_AdobeExpress.gif)
+![PITCH IMG](https://github.com/user9999-cs/Brainstorm-Blockbuster-Demo-GIF-/blob/main/Screenshot%202023-06-06%20at%2011.03.50%20AM.png)
 
 The AI then generates a professional, engaging movie synopsis based on your concept, includes the names of the ideal actors for the key roles, and comes up with an eye-catching movie title. These outputs are then displayed in a clear, reader-friendly format.
 
-![DEMO GIF](https://github.com/user9999-cs/Brainstorm-Blockbuster-Demo-GIF-/blob/main/BB_-_Demo_1_AdobeExpress.gif)
+![DEMO GIF](https://github.com/user9999-cs/Brainstorm-Blockbuster-Demo-GIF-/blob/main/BB_-_Demo_1_AdobeExpress-2.gif)
 
 Finally, the system utilizes DALL-E to generate a unique image based on the AI's movie synopsis and title, resulting in a concept for your movie poster. You're presented with a complete, visually appealing pitch that’s ready to present to anyone, from industry professionals to your friends and family.
 
